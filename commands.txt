@@ -1,2 +1,5 @@
 git init 
 git status
+git config --global user.name ""
+git clone
+git remote -v
